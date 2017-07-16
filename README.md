@@ -1,6 +1,6 @@
 # oracle-jutils
 
-Set of PL/SQL utility packages. Reboot from scratch of the [oracle-jutils](https://sourceforge.net/projects/oracle-jutils/).
+Set of PL/SQL utility packages. Reboot from scratch of the [oracle-jutils](https://sourceforge.net/projects/oracle-jutils/) project.
 
 # WARNING
 
